@@ -92,9 +92,15 @@ A few pieces of research I've been involved in:
 
 ## ☕ A Little Beyond Research
 
-I also enjoy reading and writing. Literature has always been an interest of mine, and I enjoy reading authors such as Fyodor Dostoevsky, Franz Kafka, Virginia Woolf, Haruki Murakami, Khaled Hosseini, and Jane Austen.
 
-I usually find myself interested in books that explore people, their thoughts, and their experiences. I also enjoy writing and hope to spend more time doing it.
+
+## 📖 A Little Beyond Research
+
+I love, truly love, reading books. I love getting lost in a story, spending time with its characters, and finding parts of myself in them.
+
+My favourite authors, the ones I can always return to, are Dostoevsky, Kafka, Virginia Woolf, Haruki Murakami, Khaled Hosseini, and Jane Austen.
+
+I also love writing. Perhaps it comes from the same place: a desire to put thoughts into words, even when words don't always seem enough.
 
 ---
 
