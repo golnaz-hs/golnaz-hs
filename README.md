@@ -1,6 +1,7 @@
 <p align="center">
-  <img src=image1.jpg" width="100%" alt="Profile header">
+  <img src="image1.jpg" width="100%" alt="Profile header">
 </p>
+
 <div align="center">
 
 **Biomedical Engineering · Medical Image Analysis · Artificial Intelligence**
