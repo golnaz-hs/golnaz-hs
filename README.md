@@ -1,15 +1,10 @@
-<!--
-  GOLNAZ HOSSEINI | GITHUB PROFILE README
-  Design concept: Creative Academic Journal
--->
-
 <div align="center">
 
 **Biomedical Engineering · Medical Image Analysis · Artificial Intelligence**
 
-</div>
+*Curious about science, images, ideas, and the stories behind them.*
 
----
+</div>
 
 <div align="center">
 
@@ -17,80 +12,82 @@
 
 </div>
 
-I am Golnaz, a Biomedical Engineering graduate interested in the intersection of artificial intelligence, computer vision, and medicine.
+Hi, I'm Golnaz!
 
-My journey into medical AI began whas taken me through different kinds of images and clinical problems: understanding brain tumors, identifying breast lesions, analyzing prostate MRI, and segmenting abdominal organs.
+I studied Biomedical Engineering, and somewhere along the way, I found myself particularly drawn to medical imaging and artificial intelligence.
 
-Working across these applications has gradually shaped the questions I find most interesting. How do models learn meaningful representations? What happens when the data changes? Can a model trained in one environment remain useful in another? I enjoy developing models, experimenting with different architectures, and investigating their limitations. 
+Over the past few years, I've had the chance to work with quite different medical imaging problems, from brain tumors and breast lesions to prostate MRI and abdominal organ segmentation. I've enjoyed exploring different architectures, experimenting with ideas, and sometimes discovering that things don't work quite as expected.
+
+One thing that keeps me curious is how models behave outside the datasets they were trained on. I find myself coming back to questions about generalization, adaptation, and how we can make medical AI more useful in real clinical settings.
 
 ---
 
 ## Research
 
-<div align="center">
-
-My research experience has covered:
+My research experience has taken me through a few different areas of medical imaging:
 
 **01 — Brain imaging**
 
-Understanding brain tumors through MRI and deep learning-based segmentation.
+Working with MRI data to explore deep learning approaches for brain tumor segmentation.
 
 **02 — Breast imaging**
 
-Exploring lesion detection and segmentation using breast MRI and mammography.
+Exploring breast lesion detection and segmentation using MRI and mammography.
 
 **03 — Prostate imaging**
 
-Investigating multiparametric MRI and the complementary information provided by T2-weighted, ADC, and diffusion-weighted sequences.
+Working with multiparametric MRI, including T2-weighted, ADC, and diffusion-weighted images.
 
 **04 — Abdominal imaging**
 
-Developing lightweight architectures for multi-organ segmentation across CT and MRI.
+Developing lightweight deep learning architectures for multi-organ segmentation across CT and MRI.
 
-**05 — Explainable medical AI**
+**05 — Explainable AI**
 
-Exploring visual explanations and model interpretability, including Grad-CAM, in medical image analysis.
+Exploring ways to understand model predictions through techniques such as Grad-CAM.
 
 ---
 
 ## My Future Direction
 
-*Questions that guide where I want to go next.*
+There are still many things I would like to explore. Lately, I've been particularly interested in what happens when medical AI models encounter data they haven't seen before.
 
-I am increasingly interested in how medical AI models behave when the conditions change.
+Some topics I'd love to explore further:
 
-| Research direction | The question |
+| Area | What interests me |
 |---|---|
-| Generalization | Can models learn features that remain meaningful across datasets and imaging environments? |
-| Adaptation | Can models adjust to unfamiliar data with limited additional effort? |
-| Foundation models | Can pretrained visual representations improve medical image understanding? |
-| Vision-language learning | Can combining visual and textual information make models more flexible? |
-| Efficient learning | How can we reduce computational and annotation requirements? |
-| Reliability and XAI | Can we better understand when and why models make incorrect predictions? |
-| Federated learning | How can institutions collaborate without sharing sensitive patient data? |
+| Generalization | Making models work across different datasets and imaging conditions. |
+| Adaptation | Helping models adjust to unfamiliar data with less additional training. |
+| Foundation models | Exploring what pretrained models can offer in medical imaging. |
+| Vision-language models | Connecting visual information with language. |
+| Efficient learning | Building capable models with fewer computational and annotation resources. |
+| Explainable AI | Understanding why models make particular predictions. |
+| Federated learning | Learning collaboratively while respecting patient privacy. |
 
 ---
 
 ## Publications
 
-A record of research contributions and ongoing work.
+A few pieces of research I've been involved in:
 
 - **ICBME 2023** — [Research publication](https://ieeexplore.ieee.org/abstract/document/10488557)
 - **Frontiers in Biomedical Technologies** — [Research article](https://fbt.tums.ac.ir/index.php/fbt/article/view/1045)
-- **HUSF-Net** — Manuscript under revision.
+- **HUSF-Net** — *Towards Efficient Abdominal Multi-Organ Segmentation: A Lightweight Hybrid UNet-SegFormer Network* (manuscript under revision).
 
 ---
 
 ## A Little Beyond Research
 
+When I'm not working on research, you'll probably find me reading a book or writing something.
+
+I have a particular soft spot for literature. Some authors I keep returning to are Dostoevsky, Kafka, Virginia Woolf, Haruki Murakami, Khaled Hosseini, and Jane Austen.
+
+I enjoy stories that stay with you long after you've finished reading them. I also like writing, although I would love to make more time for it.
+
+---
+
 <div align="center">
 
-Outside research, I enjoy reading literature and writing.
+*Still curious, still learning, and probably reading something.*
 
-Some authors whose works I enjoy:
-
-*Fyodor Dostoevsky · Franz Kafka · Virginia Woolf · Haruki Murakami · Khaled Hosseini · Jane Austen*
-
-I like books that leave questions behind, offer different perspectives, and make ordinary experiences worth thinking about.
-
-I also enjoy writing, and I hope to make more room for it alongside my scientific work.
+</div>
