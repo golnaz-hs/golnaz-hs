@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="4a95e83f3ba2d1491fa7da939757fe62.jpg" width="100%" alt="Profile header">
+</p>
 <div align="center">
 
 **Biomedical Engineering · Medical Image Analysis · Artificial Intelligence**
@@ -14,7 +17,7 @@
 
 Hi, I'm Golnaz!
 
-I studied Biomedical Engineering, and somewhere along the way, I found myself particularly drawn to medical imaging and artificial intelligence.
+I studied Biomedical Engineering, and somewhere along the way, I found myself particularly drawn to medical imaging and artificial intelligence. 
 
 Over the past few years, I've had the chance to work with quite different medical imaging problems, from brain tumors and breast lesions to prostate MRI and abdominal organ segmentation. I've enjoyed exploring different architectures, experimenting with ideas, and sometimes discovering that things don't work quite as expected.
 
@@ -42,10 +45,6 @@ Working with multiparametric MRI, including T2-weighted, ADC, and diffusion-weig
 
 Developing lightweight deep learning architectures for multi-organ segmentation across CT and MRI.
 
-**05 — Explainable AI**
-
-Exploring ways to understand model predictions through techniques such as Grad-CAM.
-
 ---
 
 ## My Future Direction
@@ -56,13 +55,15 @@ Some topics I'd love to explore further:
 
 | Area | What interests me |
 |---|---|
-| Generalization | Making models work across different datasets and imaging conditions. |
-| Adaptation | Helping models adjust to unfamiliar data with less additional training. |
-| Foundation models | Exploring what pretrained models can offer in medical imaging. |
-| Vision-language models | Connecting visual information with language. |
-| Efficient learning | Building capable models with fewer computational and annotation resources. |
-| Explainable AI | Understanding why models make particular predictions. |
-| Federated learning | Learning collaboratively while respecting patient privacy. |
+| Generalization | Improving model performance across different datasets and imaging settings. |
+| Adaptation | Adapting models to new data with limited additional training. |
+| Foundation models | Exploring their potential for medical image analysis. |
+| Vision-language models | Combining visual and textual information for medical applications. |
+| Efficient learning | Developing models that require fewer computational and annotation resources |
+| Explainable AI | Understanding model predictions and their reliability. |
+| Federated learning | Training models across institutions while preserving data privacy. |
+
+
 
 ---
 
@@ -78,16 +79,14 @@ A few pieces of research I've been involved in:
 
 ## A Little Beyond Research
 
-When I'm not working on research, you'll probably find me reading a book or writing something.
+I also enjoy reading and writing. Literature has always been an interest of mine, and I enjoy reading authors such as Fyodor Dostoevsky, Franz Kafka, Virginia Woolf, Haruki Murakami, Khaled Hosseini, and Jane Austen.
 
-I have a particular soft spot for literature. Some authors I keep returning to are Dostoevsky, Kafka, Virginia Woolf, Haruki Murakami, Khaled Hosseini, and Jane Austen.
-
-I enjoy stories that stay with you long after you've finished reading them. I also like writing, although I would love to make more time for it.
+I usually find myself interested in books that explore people, their thoughts, and their experiences. I also enjoy writing and hope to spend more time doing it.
 
 ---
 
 <div align="center">
 
-*Still curious, still learning, and probably reading something.*
+*Always learning, exploring, and finding new things to read.*
 
 </div>
