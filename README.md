@@ -92,10 +92,6 @@ A few pieces of research I've been involved in:
 
 ## ☕ A Little Beyond Research
 
-
-
-## 📖 A Little Beyond Research
-
 I love, truly love, reading books. I love getting lost in a story, spending time with its characters, and finding parts of myself in them.
 
 My favourite authors, the ones I can always return to, are Dostoevsky, Kafka, Virginia Woolf, Haruki Murakami, Khaled Hosseini, and Jane Austen.
