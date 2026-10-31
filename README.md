@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image2.jpg" width="100%" alt="Profile header">
+  <img src="image3.jpg" width="100%" alt="Profile header">
 </p>
 
 <div align="center">
