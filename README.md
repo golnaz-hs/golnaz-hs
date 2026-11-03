@@ -23,7 +23,7 @@
 
 ## 👋 Hi, I'm Golnaz!
 
-I studied Biomedical Engineering, and somewhere along the way, I found myself particularly drawn to medical imaging and artificial intelligence.
+I studied Biomedical Engineering, and I found myself particularly drawn to medical imaging and artificial intelligence.
 
 Over the past few years, I've had the chance to work with quite different medical imaging problems, from brain tumors and breast lesions to prostate MRI and abdominal organ segmentation. I've enjoyed exploring different architectures, experimenting with ideas, and sometimes discovering that things don't work quite as expected.
 
@@ -55,7 +55,7 @@ Developing lightweight deep learning architectures for multi-organ segmentation 
 
 ## 🌱 My Future Direction
 
-There are still many things I would like to explore. Lately, I've been particularly interested in what happens when medical AI models encounter data they haven't seen before.
+There are still many things I would like to explore. I've been particularly interested in what happens when medical AI models encounter data they haven't seen before.
 
 Some topics I'd love to explore further:
 
@@ -92,12 +92,9 @@ A few pieces of research I've been involved in:
 
 ## ☕ A Little Beyond Research
 
-I love, truly love, reading books. I love getting lost in a story, spending time with its characters, and finding parts of myself in them.
+I love, truly love, reading books. I love getting lost in a story, spending time with its characters, and finding parts of myself in them. My favourite authors, the ones I can always return to, are Dostoevsky, Kafka, Virginia Woolf, Haruki Murakami, Khaled Hosseini, and Jane Austen.
 
-My favourite authors, the ones I can always return to, are Dostoevsky, Kafka, Virginia Woolf, Haruki Murakami, Khaled Hosseini, and Jane Austen.
-
-I also love writing. Perhaps it comes from the same place: a desire to put thoughts into words, even when words don't always seem enough.
-
+I also love to write about everything, my ideas, thoughts, beliefs, fears, or something I am learning. I have tons of notebooks in my shelf, each for a different purpose. Writing is the most powerful tool for me, a deeper form of thinking; it helps me manage my thoughts, tasks, and even find solutions. So, I spend so much time writing.
 ---
 
 <div align="center">
