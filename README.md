@@ -8,7 +8,7 @@
 
 **Biomedical Engineering · Medical Image Analysis · Artificial Intelligence**
 
-*Curious about science, images, ideas, and the stories behind them.*
+*Deeply Curious about science, ideas, and new possibilities*
 
 </div>
 
@@ -99,7 +99,7 @@ I also love to write about everything, my ideas, thoughts, beliefs, fears, or so
 
 <div align="center">
 
-📖 *Always learning, exploring, and finding new things to read.*
+📖 *Always learning, exploring, and finding new things to read and discover.*
 
 </div>
 
