@@ -95,6 +95,7 @@ A few pieces of research I've been involved in:
 I love, truly love, reading books. I love getting lost in a story, spending time with its characters, and finding parts of myself in them. My favourite authors, the ones I can always return to, are Dostoevsky, Kafka, Virginia Woolf, Haruki Murakami, Khaled Hosseini, and Jane Austen.
 
 I also love to write about everything, my ideas, thoughts, beliefs, fears, or something I am learning. I have tons of notebooks in my shelf, each for a different purpose. Writing is the most powerful tool for me, a deeper form of thinking; it helps me manage my thoughts, tasks, and even find solutions. So, I spend so much time writing.
+
 ---
 
 <div align="center">
