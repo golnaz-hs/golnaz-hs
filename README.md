@@ -10,15 +10,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Medical_AI-8A9A5B?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer_Vision-C18C6B?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep_Learning-718C83?style=flat-square" />
-<img src="https://img.shields.io/badge/Biomedical_Engineering-B7A58A?style=flat-square" />
-
-</div>
-
 ## 👋 Hi, I'm Golnaz!
 
 I studied Biomedical Engineering and became particularly interested in the intersection of medical imaging and AI.
