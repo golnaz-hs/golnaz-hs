@@ -23,11 +23,9 @@
 
 ## 👋 Hi, I'm Golnaz!
 
-I studied Biomedical Engineering, and I found myself particularly drawn to medical imaging and artificial intelligence.
+I studied Biomedical Engineering and became particularly interested in the intersection of medical imaging and AI.
 
-Over the past few years, I've had the chance to work with quite different medical imaging problems, from brain tumors and breast lesions to prostate MRI and abdominal organ segmentation. I've enjoyed exploring different architectures, experimenting with ideas, and sometimes discovering that things don't work quite as expected.
-
-One thing that keeps me curious is how models behave outside the datasets they were trained on. I find myself coming back to questions about generalization, adaptation, and how we can make medical AI more useful in real clinical settings.
+Over the past few years, I've worked on different problems, including brain tumor analysis, breast lesion detection and segmentation, prostate MRI, and abdominal organ segmentation. I've had the chance to try different architectures, experiment with ideas, and even learn from the experiments that didn't work out. 
 
 ---
 
