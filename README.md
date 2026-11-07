@@ -8,8 +8,6 @@
 
 **Biomedical Engineering · Medical Image Analysis · Artificial Intelligence**
 
-*Deeply Curious about science, ideas, and new possibilities*
-
 </div>
 
 <div align="center">
